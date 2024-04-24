@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c87c9;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+table {
+  width: 600px;
+  margin: auto;
+  background-color: lightblue;
+  border-collapse: collapse;
+  border: 1.5px solid black;
+}
+
+img {
+  padding: 10px;
+  border: 3px solid blue;
+  width: 180px;
+  height: 150px;
+  background-color: lightblue;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#caption {
+  color: white;
+  text-align: left;
+  font-size: 10px;
+}
+#name {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+ol {
+  text-align: left;
+  margin-left: 20px;
+  /* border: 1.5px solid black; */
+}
+.list {
+  background-color: lightcyan;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.list a:hover {
+  color: blue;
+}
